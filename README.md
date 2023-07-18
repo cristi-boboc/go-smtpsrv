@@ -4,7 +4,7 @@ a simple smtp server library for writing email servers like a boss.
 
 Quick Start
 ===========
-> `go get github.com/alash3al/go-smtpsrv`
+> `go get github.com/cristi-boboc/go-smtpsrv`
 
 ```go
 package main
@@ -12,7 +12,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/alash3al/go-smtpsrv/v3"
+	"github.com/cristi-boboc/go-smtpsrv/v3"
 )
 
 func main() {
